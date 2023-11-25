@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Credit Card Movements Log</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_dash">Dash</string>
+    <string name="text_user">User</string>
+    <string name="text_analytics">Analytics</string>
+    <string name="text_history">History</string>
 </resources>

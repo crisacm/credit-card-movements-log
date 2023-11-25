@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/dashFragment"
+        android:title="@string/text_dash"
+        android:icon="@drawable/ic_space_dashboard_dg"
+        android:enabled="true" />
+
+    <item android:id="@+id/analyticsFragment"
+        android:title="@string/text_analytics"
+        android:icon="@drawable/ic_analytics_dg"
+        android:enabled="true" />
+
+    <item android:id="@+id/historyFragment"
+        android:title="@string/text_history"
+        android:icon="@drawable/ic_history_dg"
+        android:enabled="true" />
+
+    <item android:id="@+id/userFragment"
+        android:title="@string/text_user"
+        android:icon="@drawable/ic_person_dg"
+        android:enabled="true" />
+</menu>
